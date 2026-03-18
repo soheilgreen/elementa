@@ -50,7 +50,7 @@ pytest
 4. Implement `assemble_and_solve(cls, state: PhysicsState) -> PhysicsState`.
 5. Call `register_physics(YourDescriptor)` at the bottom of the file.
 6. Add the import to `elementa/physics/__init__.py`.
-7. Add an icon file (PNG, 64×64) to `elementa/assets/`.
+7. Add an icon file (PNG, 350×350) to `elementa/assets/`.
 
 See `docs/guides/adding-physics.md` for a detailed walkthrough.
 
