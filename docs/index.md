@@ -8,25 +8,25 @@ Elementa is a desktop simulation environment that provides a complete FEM workfl
 
 <div class="grid cards" markdown>
 
--   :material-cube-outline: **Parametric Geometry**
+-   📐 **Parametric Geometry**
 
     Build 2-D and 3-D models from primitives with full boolean operations and symbolic parameters.
 
     [Geometry guide →](guides/geometry.md)
 
--   :material-grid: **Automatic Meshing**
+-   🔲 **Automatic Meshing**
 
     Generate triangular and tetrahedral meshes automatically via the gmsh engine.
 
     [Meshing guide →](guides/meshing.md)
 
--   :material-lightning-bolt: **Physics Solvers**
+-   ⚡ **Physics Solvers**
 
     Electrostatics and Heat Transfer (stationary & transient) built in; extensible plugin architecture.
 
     [Physics guide →](guides/physics.md)
 
--   :material-chart-line: **Post-Processing**
+-   📊 **Post-Processing**
 
     Surface plots, arrow/vector plots, and point/line probes with interactive controls.
 
